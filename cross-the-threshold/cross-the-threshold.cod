@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Olivia Tribal [EDH]</deckname>
+    <comments>http://forums.mtgsalvation.com/showthread.php?p=7448116</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Olivia Voldaren"/>
+        <card number="1" price="0" name="Anowon, the Ruin Sage"/>
+        <card number="1" price="0" name="Ascendant Evincar"/>
+        <card number="1" price="0" name="Baron Sengir"/>
+        <card number="1" price="0" name="Bloodline Keeper"/>
+        <card number="1" price="0" name="Bloodlord of Vaasgoth"/>
+        <card number="1" price="0" name="Captivating Vampire"/>
+        <card number="1" price="0" name="Rakish Heir"/>
+        <card number="1" price="0" name="Bloodhusk Ritualist"/>
+        <card number="1" price="0" name="Butcher of Malakir"/>
+        <card number="1" price="0" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" price="0" name="Falkenrath Noble"/>
+        <card number="1" price="0" name="Guul Draz Assassin"/>
+        <card number="1" price="0" name="Malakir Bloodwitch"/>
+        <card number="1" price="0" name="Pawn of Ulamog"/>
+        <card number="1" price="0" name="Sangromancer"/>
+        <card number="1" price="0" name="Chancellor of the Dross"/>
+        <card number="1" price="0" name="Falkenrath Marauders"/>
+        <card number="1" price="0" name="Gatekeeper of Malakir"/>
+        <card number="1" price="0" name="Mirri the Cursed"/>
+        <card number="1" price="0" name="Sengir Vampire"/>
+        <card number="1" price="0" name="Vampiric Dragon"/>
+        <card number="1" price="0" name="Bloodgift Demon"/>
+        <card number="1" price="0" name="Dread"/>
+        <card number="1" price="0" name="Sorin Markov"/>
+        <card number="1" price="0" name="Bloodchief Ascension"/>
+        <card number="1" price="0" name="Greed"/>
+        <card number="1" price="0" name="Necropotence"/>
+        <card number="1" price="0" name="Pain Magnification"/>
+        <card number="1" price="0" name="Sanguine Bond"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Relic of Progenitus"/>
+        <card number="1" price="0" name="Caged Sun"/>
+        <card number="1" price="0" name="Coldsteel Heart"/>
+        <card number="1" price="0" name="Extraplanar Lens"/>
+        <card number="1" price="0" name="Rakdos Signet"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Contagion Engine"/>
+        <card number="1" price="0" name="Rings of Brighthearth"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Soul Conduit"/>
+        <card number="1" price="0" name="Venser's Journal"/>
+        <card number="1" price="0" name="Blade of the Bloodchief"/>
+        <card number="1" price="0" name="Basilisk Collar"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Swiftfoot Boots"/>
+        <card number="1" price="0" name="Terminate"/>
+        <card number="1" price="0" name="Shattering Pulse"/>
+        <card number="1" price="0" name="Void"/>
+        <card number="1" price="0" name="Wrecking Ball"/>
+        <card number="1" price="0" name="Blasphemous Act"/>
+        <card number="1" price="0" name="Chain Reaction"/>
+        <card number="1" price="0" name="Life's Finale"/>
+        <card number="1" price="0" name="Beseech the Queen"/>
+        <card number="1" price="0" name="Diabolic Tutor"/>
+        <card number="1" price="0" name="Mana Geyser"/>
+        <card number="1" price="0" name="Torrent of Souls"/>
+        <card number="1" price="0" name="Stitch Together"/>
+        <card number="1" price="0" name="Syphon Mind"/>
+        <card number="1" price="0" name="Blood Tribute"/>
+        <card number="1" price="0" name="Exsanguinate"/>
+        <card number="1" price="0" name="Sorin's Vengeance"/>
+        <card number="6" price="0" name="Snow-Covered Mountain"/>
+        <card number="12" price="0" name="Snow-Covered Swamp"/>
+        <card number="1" price="0" name="Blackcleave Cliffs"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Dragonskull Summit"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Rakdos Carnarium"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Thawing Glaciers"/>
+        <card number="1" price="0" name="Tresserhorn Sinks"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Forgotten Cave"/>
+        <card number="1" price="0" name="Kher Keep"/>
+        <card number="1" price="0" name="Lavaclaw Reaches"/>
+        <card number="1" price="0" name="Miren, the Moaning Well"/>
+        <card number="1" price="0" name="Molten Slagheap"/>
+        <card number="1" price="0" name="Reliquary Tower"/>
+        <card number="1" price="0" name="Scrying Sheets"/>
+        <card number="1" price="0" name="Temple of the False God"/>
+        <card number="2" price="0" name="Braid of Fire"/>
+    </zone>
+</cockatrice_deck>
