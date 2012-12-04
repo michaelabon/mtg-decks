@@ -5,7 +5,6 @@
 
 http://forums.mtgsalvation.com/showthread.php?p=7114674</comments>
     <zone name="main">
-        <card number="1" price="0" name="Darien, King of Kjeldor"/>
         <card number="1" price="0" name="Ballyrush Banneret"/>
         <card number="1" price="0" name="Benalish Commander"/>
         <card number="1" price="0" name="Captain of the Watch"/>
@@ -84,5 +83,8 @@ http://forums.mtgsalvation.com/showthread.php?p=7114674</comments>
         <card number="1" price="0" name="Suture Priest"/>
         <card number="1" price="0" name="Umezawa's Jitte"/>
         <card number="1" price="0" name="Whispersilk Cloak"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Darien, King of Kjeldor"/>
     </zone>
 </cockatrice_deck>
