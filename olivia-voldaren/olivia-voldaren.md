@@ -31,6 +31,7 @@ Kumano, Master Yamabushi
 Markov Blademaster
 Sangromancer
 Vampire Hexmage
+Blood Artist
 
 ## Blood and Fire
 Blood Tribute
@@ -45,7 +46,8 @@ Molten Disaster
 Shattering Pulse
 Soul Burn
 Terminate
-Victim of the Night
+Victim of Night
+Blade of the Bloodchief
 
 ## Wealth
 Braid of Fire
